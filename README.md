@@ -1,6 +1,7 @@
 # Corsair RGB Fan LED Hub
 
 Here are a few photos of the disassembly of a Corsair RGB Fan LED Hub.
+You should be able to determine all the pinouts from the included photos.
 
 There are four black phillips head screws under the sticker pad on the back side of the hub.
 This particular PCB has the markings E332193 and HSZJHD.AO.

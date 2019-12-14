@@ -1,6 +1,6 @@
 # Corsair RGB Fan LED Hub
 
-Here are a few photos of the disassembly of a Corsair RGB Fan LED Hub.
+Here are a few photos of the disassembly of a Corsair RGB Fan LED Hub. (CO-8950020)
 You should be able to determine all the pinouts from the included photos.
 
 There are four black phillips head screws under the sticker pad on the back side of the hub.
